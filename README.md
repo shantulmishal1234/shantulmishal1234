@@ -1,8 +1,5 @@
 ## Hi there 👋 i am Shantul Sishal
 
-
-
-
 <img align="right" alt="Coding Girl" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
 ### 💖 Just a CS Girlie Who Loves to Code
