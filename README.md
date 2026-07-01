@@ -1,17 +1,26 @@
-## Hi there 👋 i am Shantul Sishal
+## Hey, Tech Explorer! 👋 I Am Shantul Mishal
+<h2 align="center">My Dev Space </h2>
 
-<img align="right" alt="Coding Girl" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+<p align="center">
+  <img
+    src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"
+    width="350"
+    alt="Coding Girl"
+  />
+</p>
 
-### 💖 Just a CS Girlie Who Loves to Code
+---
+##   The Person Behind the Code 👨‍💻
 
-🌸 Computer Science Student  
-💻 Passionate about Programming & Software Development  
-🚀 Currently learning **DSA, Web Development & AI**  
-☕ Turning coffee into code, one commit at a time.
+🎓 **Computer Science Student**
+
+➜ Passionate about Programming & Software Development  
+➜ Currently Learning **Web Development & AI**  
+➜ Love **Fashion** & **Graphic Designing**
 
 ---
 
-## 🌷 About Me
+## In My Developer Era✨
 
 ```python
 
@@ -48,21 +57,30 @@ class Developer:
 
 ## 📚 Currently Learning
 
-- 🌸 Data Structures & Algorithms
-- 🤖 Artificial Intelligence
-- 🌐 Full Stack Web Development
-- ☁️ Cloud Computing
-- 🔥 Open Source Contribution
+-  Data Structures & Algorithms
+-  Artificial Intelligence
+-  Full Stack Web Development
+-  Cloud Computing
+-  Open Source Contribution
 
 ---
 
+
+
 ## 🎯 2026 Goals
 
-- 🚀 Build impactful projects
-- 🌟 Contribute to Open Source
-- 💼 Land an amazing internship
-- 📖 Learn something new every day
-- 💖 Never stop coding
+*  Build projects that solve real-world problems
+*  Make meaningful contributions to Open Source
+*  Secure an amazing software engineering internship
+*  Learn something new every single day
+*  Master Data Structures & Algorithms
+*  Dive deeper into AI & Machine Learning
+*  Explore Cloud Computing & Modern Technologies
+*  Turn creative ideas into real applications
+*  Keep improving, one commit at a time
+*  Never stop coding, creating, and growing
+*  Enjoy the journey as much as the destination
+
 
 ---
 
