@@ -238,7 +238,7 @@ class Developer:
 </p>
 
 
-> *"Success isn't built in a day—it's built every day."* ✨
+> *"Success isn't built in a day—it's built every day."* 
 ---
 
 
